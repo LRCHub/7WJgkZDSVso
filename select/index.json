@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "吸って、吐く",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T06:58:49.078484Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "吸って、吐く (feat. 安次嶺希和子)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_吸って、吐く_(feat._安次嶺希和子)_未来古代楽団.txt"
+    }
+  ]
+}
